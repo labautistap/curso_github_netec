@@ -1,5 +1,6 @@
 public class HelloWorld {
     public static void main (String [] args) {
-        System.out.println("Hola Mundo desde Git");
+        String x = "Hola Mundo desde Git";
+        System.out.println(x);
     }
 }
